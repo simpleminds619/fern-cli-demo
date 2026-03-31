@@ -1,0 +1,9 @@
+instances:
+  - url: https://simpleminds-869970-794404.docs.buildwithfern.com
+title: Sample Fern | Documentation
+navigation:
+  - api: API Reference
+    paginated: true
+colors:
+  accentPrimary: '#ffffff'
+  background: '#000000'
